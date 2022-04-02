@@ -1,5 +1,3 @@
-# vs code install
-
 ## links
 
 -  [vscode下載](https://code.visualstudio.com/docs/cpp/config-mingw  "Title") 
