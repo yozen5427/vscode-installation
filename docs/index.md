@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+# vs code install
 
-You can use the [editor on GitHub](https://github.com/yozen5427/vscode-installation/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## links
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-  [vscode下載](https://code.visualstudio.com/docs/cpp/config-mingw  "Title") 
+-  [mingw64下載](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/6.4.0/threads-win32/seh/x86_64-6.4.0-release-win32-seh-rt_v5-rev0.7z/download  "Title") 
 
-### Markdown
+## windows powershell(cmd)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- `cd <folder> ` 進入folder
+  - ex: `cd Desktop`
+- `cd ..` 退到上一步的folder
 
-```markdown
-Syntax highlighted code block
+- `mkdir <name>` 創建一個新的folder 
+  - ex: `mkdir projects` 創建一個名叫`projects`的folder 
 
-# Header 1
-## Header 2
-### Header 3
+## vscode 
 
-- Bulleted
-- List
+- `ctrl+shift+p` vscode搜尋欄
 
-1. Numbered
-2. List
+- `g++ <檔名>.cpp -o <名字>` 編譯(compile) `<檔名>.cpp`並且創建執行檔`<名字>.exe`
+  - ex: `g++ main.cpp -o main` 編譯`main.cpp`並且將其程式的執行弄到`main.exe`
 
-**Bold** and _Italic_ and `Code` text
+- `.\<檔名>.exe` 執行code
+  - `.\main.exe`
 
-[Link](url) and ![Image](src)
-```
+- ```c++
+  // tescode
+  #include <bits/stdc++.h>
+  int main(){
+      std::cout<<"hello world!";
+  }
+  ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+  
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yozen5427/vscode-installation/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+  
+
+  
+
