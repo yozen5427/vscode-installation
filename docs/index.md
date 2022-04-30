@@ -23,7 +23,7 @@
   - `.\main.exe`
 
 - ```c++
-  // tescode
+  // testcode
   #include <bits/stdc++.h>
   int main(){
       std::cout<<"hello world!";
