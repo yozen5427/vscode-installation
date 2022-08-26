@@ -28,6 +28,7 @@
 
   - `.\main.exe`
 
+
 - ```c++
   // tescode
   #include <bits/stdc++.h>
@@ -35,13 +36,11 @@
       std::cout<<"hello world!";
   }
   ```
-  
-  ## 常見問題
-  
+
+## 常見問題
+
   - 如果找不到 bin 資料夾?
-   - 試試 [google drive](https://drive.google.com/file/d/1OVHKpgJB-Uqvbm7TLBlhwjtZc6Z0HCG8/view?usp=sharing "Title") 下載的方案   
-
-  
+    - 試試 [google drive](https://drive.google.com/file/d/1OVHKpgJB-Uqvbm7TLBlhwjtZc6Z0HCG8/view?usp=sharing "Title") 下載的方案   
 
 
 
@@ -53,6 +52,7 @@
 
 
 
-  
 
-  
+
+
+
