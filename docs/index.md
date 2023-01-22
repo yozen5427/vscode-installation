@@ -41,18 +41,17 @@
 
   - 如果找不到 bin 資料夾?
     - 試試 [google drive](https://drive.google.com/file/d/1OVHKpgJB-Uqvbm7TLBlhwjtZc6Z0HCG8/view?usp=sharing "Title") 下載的方案   
+  - 如果出現類似已下指令 可能代表你忘了  `save` 
 
+```
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+```
 
+- 如果有 `save` 解果出現以下指令 代表你可能忘記打 `int main ()`  或是打錯
 
-
-
-
-
-
-
-
-
-
-
-
+```
+C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-crt0_c.o):crt0_c.c:(.text.startup+0x2e): undefined reference to `WinMain'
+collect2.exe: error: ld returned 1 exit status
+```
 
