@@ -55,6 +55,3 @@ C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw3
 collect2.exe: error: ld returned 1 exit status
 ```
 
-
-<mark>hi</mark>
-
